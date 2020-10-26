@@ -9,5 +9,4 @@
 
 
 <h4> Bukti Kerja Kelompok </h4>
-![GitHub Logo](Bukti.jpeg)
-Format: ![Alt Text](url)
+![alt text](https://github.com/realebin/web_semantik2/Bukti.jpeg?raw=true)

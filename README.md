@@ -6,3 +6,8 @@
 4. Masukkan query yang dibutuhkan di bagian sebelah kiri halaman utama graphql
 
 <h3>Tidak perlu install npm lagi, sudah terinstall di dalam github ini</h3>
+
+
+<h4> Bukti Kerja Kelompok </h4>
+![GitHub Logo](Bukti.jpeg)
+Format: ![Alt Text](url)

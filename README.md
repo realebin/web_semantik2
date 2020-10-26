@@ -13,9 +13,9 @@
 
 <h4> Nama Kelompok :</h4>
 
-1772005 Celine Lieshiana \n
-1772006 Febrina Anastasha \n
-1772016 Nicolavickh Yohanes \n
-1772041 Natasya Dey \n
-1772044 Roy Parsaoran \n
-1772052 Tiaz Rizqy Amandha \n
+* 1772005 Celine Lieshiana 
+* 1772006 Febrina Anastasha 
+* 1772016 Nicolavickh Yohanes 
+* 1772041 Natasya Dey 
+* 1772044 Roy Parsaoran 
+* 1772052 Tiaz Rizqy Amandha 

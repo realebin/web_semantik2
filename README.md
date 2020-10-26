@@ -9,4 +9,4 @@
 
 
 <h4> Bukti Kerja Kelompok </h4>
-![alt text](https://github.com/realebin/web_semantik2/Bukti.jpeg?raw=true)
+<img src="https://github.com/realebin/web_semantik2/blob/main/Bukti.jpeg"/>

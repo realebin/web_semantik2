@@ -10,3 +10,11 @@
 
 <h4> Bukti Kerja Kelompok </h4>
 <img src="https://github.com/realebin/web_semantik2/blob/main/Bukti.jpeg"/>
+
+<h4> Nama Kelompok :</h4>
+1772005 Celine Lieshiana
+1772006 Febrina Anastasha
+1772016 Nicolavickh Yohanes
+1772041 Natasya Dey
+1772044 Roy Parsaoran
+1772052 Tiaz Rizqy Amandha
